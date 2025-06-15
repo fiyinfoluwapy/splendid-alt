@@ -11,7 +11,7 @@ export function NewsEvents() {
           <h2 className="text-3xl font-bold text-[#0a3875] mb-2">
             News & Events
           </h2>
-          <div className="w-24 h-1 bg-[#f5c34b] mx-auto"></div>
+          <div className="w-24 h-1 bg-[#F47A1F] mx-auto"></div>
           <p className="mt-4 text-gray-700 max-w-2xl mx-auto">
             Stay updated with the latest happenings at Excel Academy.
           </p>
@@ -30,12 +30,11 @@ export function NewsEvents() {
             <div className="p-4">
               <p className="text-sm text-gray-500 mb-2">June 15, 2023</p>
               <h3 className="text-lg font-semibold text-[#0a3875] mb-2">
-                Annual Science Fair Winners Announced
+                Spelling Bee Winners Announced
               </h3>
               <p className="text-gray-700 mb-4 line-clamp-3">
-                Congratulations to the winners of our Annual Science Fair.
-                Students showcased impressive projects demonstrating scientific
-                principles and innovation.
+                Congratulations to the winners of our Annual Spelling Bee Fair.
+                
               </p>
               <a href="#" className="text-[#0a3875] font-medium hover:text-[#082c5c]">
                 Read More
@@ -110,7 +109,7 @@ export function NewsEvents() {
             ].map((event, i) => (
               <div key={i} className="bg-white p-4 rounded-lg shadow-sm">
                 <div className="flex gap-4 items-start">
-                  <div className="bg-[#0a3875] text-white p-2 rounded-md text-center min-w-[60px]">
+                  <div className="bg-[#7AC142] text-white p-2 rounded-md text-center min-w-[60px]">
                     <span className="block text-xl font-bold">{event.day}</span>
                     <span className="text-sm">{event.month}</span>
                   </div>

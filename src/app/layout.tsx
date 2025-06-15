@@ -7,6 +7,8 @@ import { AboutUs } from "./components/about";
 import { Academics } from "./components/acadamics";
 import { Admissions } from "./components/admissions";
 import { NewsEvents } from "./components/newsevents";
+import { Contact } from "./components/contact";
+import { Footer } from "./components/footer";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -39,6 +41,8 @@ export default function RootLayout({
         <Academics />
         <Admissions />
         <NewsEvents />
+        <Contact />
+        <Footer />
         {children}
       </body>
     </html>

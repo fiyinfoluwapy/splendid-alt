@@ -8,7 +8,7 @@ export function AboutUs() {
       <div className="container mx-auto px-4">
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold text-[#0a3875] mb-2">About Us</h2>
-          <div className="w-24 h-1 bg-[#f5c34b] mx-auto"></div>
+          <div className="w-24 h-1 bg-[#F47A1F] mx-auto"></div>
         </div>
         <div className="grid md:grid-cols-2 gap-8 items-center">
           <div>
@@ -36,21 +36,21 @@ export function AboutUs() {
               positively to society.
             </p>
             <div className="grid grid-cols-2 gap-4 mt-6">
-              <div className="bg-gray-50 p-4 rounded-lg text-center">
-                <h4 className="text-[#0a3875] font-bold text-xl">5+</h4>
-                <p className="text-gray-600">Years of Excellence</p>
+              <div className="bg-[#7AC142] p-4 rounded-lg text-center">
+                <h4 className="text-white font-bold text-xl">5+</h4>
+                <p className="text-white italic">Years of Excellence</p>
               </div>
-              <div className="bg-gray-50 p-4 rounded-lg text-center">
-                <h4 className="text-[#0a3875] font-bold text-xl">95%</h4>
-                <p className="text-gray-600">Exam Success Rate</p>
+              <div className="bg-[#F47A1F] p-4 rounded-lg text-center">
+                <h4 className="text-white font-bold text-xl">95%</h4>
+                <p className="text-white italic">Exam Success Rate</p>
               </div>
-              <div className="bg-gray-50 p-4 rounded-lg text-center">
-                <h4 className="text-[#0a3875] font-bold text-xl">Enough</h4>
-                <p className="text-gray-600">Qualified Specialists</p>
+              <div className="bg-[#F47A1F] p-4 rounded-lg text-center">
+                <h4 className="text-white font-bold text-xl">Enough</h4>
+                <p className="text-white italic">Qualified Specialists</p>
               </div>
-              <div className="bg-gray-50 p-4 rounded-lg text-center">
-                <h4 className="text-[#0a3875] font-bold text-xl">150+</h4>
-                <p className="text-gray-600">Students</p>
+              <div className="bg-[#7AC142] p-4 rounded-lg text-center">
+                <h4 className="text-white font-bold text-xl">150+</h4>
+                <p className="text-white italic">Students</p>
               </div>
             </div>
           </div>

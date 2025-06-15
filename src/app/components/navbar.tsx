@@ -13,7 +13,7 @@ export function Navbar() {
         <div className="flex justify-between items-center">
           <div className="flex items-center">
             <h1 className="text-2xl font-bold text-[#0a3875]">
-              <span className="text-[#f5c34b]">Splendid</span> Altruistic Academy
+              <span className="text-[#F47A1F] italic">Splendid</span> Altruistic Academy
             </h1>
           </div>
           {/* Desktop Navigation */}

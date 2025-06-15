@@ -10,7 +10,7 @@ export function Admissions() {
       <div className="container mx-auto px-4">
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold text-[#0a3875] mb-2">Admissions</h2>
-          <div className="w-24 h-1 bg-[#f5c34b] mx-auto"></div>
+          <div className="w-24 h-1 bg-[#F47A1F] mx-auto"></div>
           <p className="mt-4 text-gray-700 max-w-2xl mx-auto">
             Join our community of learners and start your journey towards
             academic excellence.
@@ -24,7 +24,7 @@ export function Admissions() {
             <div className="space-y-6">
               <div className="flex gap-4">
                 <div className="flex-shrink-0">
-                  <div className="w-12 h-12 bg-[#f5c34b] rounded-full flex items-center justify-center">
+                  <div className="w-12 h-12 bg-[#F47A1F] rounded-full flex items-center justify-center">
                     <ClipboardCheckIcon size={24} className="text-[#0a3875]" />
                   </div>
                 </div>
@@ -41,7 +41,7 @@ export function Admissions() {
               </div>
               <div className="flex gap-4">
                 <div className="flex-shrink-0">
-                  <div className="w-12 h-12 bg-[#f5c34b] rounded-full flex items-center justify-center">
+                  <div className="w-12 h-12 bg-[#F47A1F] rounded-full flex items-center justify-center">
                     <GraduationCapIcon size={24} className="text-[#0a3875]" />
                   </div>
                 </div>
@@ -57,7 +57,7 @@ export function Admissions() {
               </div>
               <div className="flex gap-4">
                 <div className="flex-shrink-0">
-                  <div className="w-12 h-12 bg-[#f5c34b] rounded-full flex items-center justify-center">
+                  <div className="w-12 h-12 bg-[#F47A1F] rounded-full flex items-center justify-center">
                     <CalendarIcon size={24} className="text-[#0a3875]" />
                   </div>
                 </div>

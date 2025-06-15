@@ -2,16 +2,16 @@ import React from 'react'
 export function Academics() {
   return (
     <section id="academics" className="py-16 bg-gray-50">
-      <div className="container mx-auto px-4">
+      <div className="container mx-auto px-4 ">
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold text-[#0a3875] mb-2">Academics</h2>
-          <div className="w-24 h-1 bg-[#f5c34b] mx-auto"></div>
+          <div className="w-24 h-1 bg-[#F47A1F] mx-auto"></div>
           <p className="mt-4 text-gray-700 max-w-2xl mx-auto">
             Our comprehensive curriculum is designed to challenge students and
             prepare them for future success.
           </p>
         </div>
-        <div className="grid md:grid-cols-4 gap-6">
+        <div className="grid md:grid-cols-2 gap-6">
             <div className="bg-white p-6 rounded-lg shadow-md">
             <h3 className="text-xl font-semibold text-[#0a3875] mb-3">
               Creche and Primary
