@@ -84,7 +84,7 @@ export function NewsEvents() {
                 Cultural Day Celebration
               </h3>
               <p className="text-gray-700 mb-4 line-clamp-3">
-                Students and staff celebrated Nigeria's rich cultural heritage
+                Students and staff celebrated Nigeria rich cultural heritage
                 through traditional attire, food, music, and dance performances
                 representing various ethnic groups.
               </p>

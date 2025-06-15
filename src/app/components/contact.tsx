@@ -8,7 +8,7 @@ export function Contact() {
           <h2 className="text-3xl font-bold text-[#0a3875] mb-2">Contact Us</h2>
           <div className="w-24 h-1 bg-[#F47A1F] mx-auto"></div>
           <p className="mt-4 text-gray-700 max-w-2xl mx-auto">
-            We'd love to hear from you. Get in touch with us for any inquiries.
+            We would love to hear from you. Get in touch with us for any inquiries.
           </p>
         </div>
         <div className="grid md:grid-cols-2 gap-8">
