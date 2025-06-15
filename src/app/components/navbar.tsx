@@ -42,12 +42,7 @@ export function Navbar() {
             >
               News
             </a>
-            <a
-              href="#gallery"
-              className="text-gray-700 hover:text-[#0a3875] font-medium"
-            >
-              Gallery
-            </a>
+           
             <a
               href="#contact"
               className="text-gray-700 hover:text-[#0a3875] font-medium"
@@ -99,12 +94,7 @@ export function Navbar() {
               >
                 News
               </a>
-              <a
-                href="#gallery"
-                className="text-gray-700 hover:text-[#0a3875] font-medium py-2"
-              >
-                Gallery
-              </a>
+              
               <a
                 href="#contact"
                 className="text-gray-700 hover:text-[#0a3875] font-medium py-2"
