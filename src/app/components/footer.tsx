@@ -10,7 +10,7 @@ export function Footer() {
   return (
     <footer className="bg-[#0a3875] text-white">
       <div className="container mx-auto px-4 py-12">
-        <div className="grid cols-flex  md:grid-cols-2 gap-40">
+        <div className="grid cols-flex  md:grid-cols-2 gap-8">
           {/* About Section */}
           <div>
             <h2 className="text-2xl font-bold mb-4">
