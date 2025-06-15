@@ -6,6 +6,7 @@ import { Hero } from "./components/hero";
 import { AboutUs } from "./components/about";
 import { Academics } from "./components/acadamics";
 import { Admissions } from "./components/admissions";
+import { NewsEvents } from "./components/newsevents";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -37,6 +38,7 @@ export default function RootLayout({
         <AboutUs />
         <Academics />
         <Admissions />
+        <NewsEvents />
         {children}
       </body>
     </html>
